@@ -1,63 +1,61 @@
-<div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcm80ZzNiZnFsemdqbGxwcWYxbmVxanJtemN3ZDExNTZocTh1Z3BkYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
-</div>
+<img align="left" height="144" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xmbzBobDZmZGEybjF0Mnhqdng2eTh2dDRveWJ2Y2E1dWloemNuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
 
 ###
 
-<div align="center">
+<div align="left">
+  <a href="https://www.behance.net/giovannafalcon" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="37" height="25" alt="behance logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/giovanna-falcon-659600377/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  </a>
   <a href="https://www.instagram.com/la.giiovanna/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="42" height="30" alt="instagram logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
+  </a>
+  <a href="https://medium.com/@giovannafalcon.dev" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="37" height="25" alt="medium logo"  />
   </a>
 </div>
 
 ###
 
-<h1 align="center">Hey  What's up? 👋</h1>
+<h1 align="left">Hey, what's up? 👋</h1>
 
 ###
 
-<p align="left">My name is Giovanna and I'm a java developer, from São Paulo, Brazil. 🇧🇷</p>
+<br clear="both">
+
+<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
-<h3 align="left">About Me</h3>
+<p align="left">My name is Giovanna and I'm a front-end developer. I currently program with React, Next, and TailwindCSS<br><br>- I have an intermediate level of English 🇺🇸<br>- I intend to be a Full Stack 👩‍💻<br>- My goal is to work for an American or European company 🎯<br>- The language that interests me most in the back-end is Java ☕️</p>
 
 ###
 
-<p align="left">- I speak English 🇺🇸  and want to learn Italian 🇮🇹<br>- Goal: to work for an international   🌎 company as a Java developer 👩‍💻<br>- My favorite band is Rüfüs Du Sol 🎧<br>- I'm passionate about cars, my dream is a Mercedes-Benz cle 53 amg 🚗</p>
-
-###
-
-<h3 align="left">🛠  Languages and Tools</h3>
+<h3 align="left">🛠 Language and tools</h3>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" height="40" alt="apple logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
 </div>
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovannaFalcon/GiovannaFalcon/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovannaFalcon/GiovannaFalcon/output/pacman-contribution-graph.svg"
+<img src="https://raw.githubusercontent.com/giovannafalcon/giovannafalcon/output/snake.svg" alt="Snake animation" />
+
 
 ###
