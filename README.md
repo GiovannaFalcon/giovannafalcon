@@ -1,56 +1,59 @@
-<img align="left" height="144" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2xmbzBobDZmZGEybjF0Mnhqdng2eTh2dDRveWJ2Y2E1dWloemNuYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  />
+<h1 align="left">Hi, I’m Giovanna 👋</h1>
+
+###
+
+<p align="left">Frontend Developer and UI/UX Designer focused on building high-converting and scalable web interfaces. I’ve worked on Shopify-based projects that generated over R$100,000 in revenue and reached 10,000+ visits in a single week. I care deeply about performance, usability, and clean architecture.</p>
+
+###
+
+<h2 align="left">👩‍💻 | What I work with</h2>
+
+###
+
+<p align="left">- Frontend development using React, Next.js, TypeScript, Tailwind CSS, HTML, and CSS<br>- UI/UX design focused on conversion, accessibility, and user experience<br>- Building production-ready interfaces with business and performance goals in mind</p>
+
+###
+
+<h2 align="left">🎯 | Currently</h2>
+
+###
+
+<p align="left">- Improving my TypeScript and advanced React patterns<br>- Preparing to work in international, English-speaking teams</p>
+
+###
+
+<h2 align="left">🧠 | Languages</h2>
+
+###
+
+<p align="left">🇧🇷 | Portuguese: Native<br>🇺🇸 | English: Professional working proficiency</p>
+
+###
+
+<h2 align="left">🛠 |Language and Tools</h2>
 
 ###
 
 <div align="left">
-  <a href="https://www.behance.net/giovannafalcon" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/behance/default.svg" width="37" height="25" alt="behance logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/giovanna-falcon-659600377/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://www.instagram.com/la.giiovanna/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="37" height="25" alt="instagram logo"  />
-  </a>
-  <a href="https://medium.com/@giovannafalcon.dev" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/medium/default.svg" width="37" height="25" alt="medium logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="left">Hey, what's up? 👋</h1>
-
-###
-
-<br clear="both">
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">My name is Giovanna and I'm a front-end developer. I currently program with React, Next, and TailwindCSS<br><br>- I have an intermediate level of English 🇺🇸<br>- I intend to be a Full Stack 👩‍💻<br>- My goal is to work for an American or European company 🎯<br>- The language that interests me most in the back-end is Java ☕️</p>
-
-###
-
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="40" alt="tailwindcss logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
 </div>
 
+###
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GiovannaFalcon/GiovannaFalcon/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GiovannaFalcon/GiovannaFalcon/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/GiovannaFalcon/GiovannaFalcon/output/pacman-contribution-graph.svg">
+</picture>
+
+###
